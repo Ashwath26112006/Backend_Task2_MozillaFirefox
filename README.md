@@ -1,2 +1,2 @@
-# Backend_Task2_MozillaFirefox
-To-Do List API
+This code is for a simple web application built with Flask, a Python web framework. It allows users to register and log in, and once logged in, they can create, view, update, and delete tasks. The application uses a database to store user information and tasks. It also includes security features like password hashing and token-based authentication to ensure that only authorized users can access their tasks. The application runs on a server, and it dynamically finds an available port to start the server. Overall, it's a basic task management system with user authentication, designed to demonstrate how to build such applications using Flask.
+
